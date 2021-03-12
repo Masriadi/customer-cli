@@ -1,0 +1,16 @@
+{
+  "name": "customer-cli",
+  "version": "1.0.0",
+  "description": "Customer Management CLI Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masriadi",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "inquirer": "^8.0.0",
+    "mongoose": "^5.11.19"
+  }
+}
